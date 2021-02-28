@@ -1,0 +1,6 @@
+name: DeathBan
+version: ${project.version}
+main: ro.deiutzblaxo.deathban.DeathBan
+authors: [ JDeiutz ]
+commands:
+  deathban:
